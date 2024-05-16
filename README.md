@@ -18,7 +18,7 @@ Features: The dataset includes time-series data such as date, opening price, hig
 5. Visualize data to understand trends and correlations.
 6. Generate summary statistics to gain insights into the data distribution.
 ## **Linear Regression Model**
-1.Split the data into training and testing sets.
+1. Split the data into training and testing sets.
 2. Train a linear regression model using the training set.
 3. Evaluate the model's performance on the testing set using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.
 4. Prediction and Analysis
