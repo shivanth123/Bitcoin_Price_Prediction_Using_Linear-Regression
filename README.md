@@ -8,7 +8,7 @@ Develop a linear regression model to predict Bitcoin prices based on historical 
 Analyze the relationship between various features (e.g., time, market trends) and Bitcoin prices.
 Provide an easy-to-use script for training and predicting Bitcoin prices.
 ## Dataset
-Source: Historical Bitcoin price data obtained from a reliable financial dataset provider (e.g., CoinGecko, Yahoo Finance).
+Source: Historical Bitcoin price data obtained from a reliable financial dataset provider kaggle.
 Features: The dataset includes time-series data such as date, opening price, highest price, lowest price, closing price, volume, and market cap.
 ## Methodology
 1. Data Preprocessing
